@@ -8,25 +8,6 @@ import { FaHandPointRight } from 'react-icons/fa'
 // For translation
 import { useTranslation } from 'react-i18next';
 
-const lightboxOptions = {
-    settings: {
-      disableKeyboardControls: true,
-      disableWheelControls: true,
-      disablePanzoom: true
-    },
-    buttons: {
-      showAutoplayButton: false,
-      showDownloadButton: false,
-      showFullscreenButton: false,
-      showThumbnailsButton: false,
-      showNextButton: false,
-      showPrevButton: false
-    },
-    thumbnails: {
-      showThumbnails: false
-    }
-};
-
 const About = () => {
     // For translation
     const { t } = useTranslation();
@@ -48,11 +29,7 @@ const About = () => {
                         </BtnWrap>                        
                     </div>
                     <div className='col-lg-4' id='about-img-wrapper'>
-                        <SRLWrapper options={lightboxOptions}>
-                            <a href={master_liu}>
-                                <img src={master_liu} alt="Master Liu" className='img-fluid'/>
-                            </a>
-                        </SRLWrapper>                        
+                        <img src={master_liu} alt="Master Liu" className='img-fluid'/>                   
                     </div>
                 </div>                
             </div>

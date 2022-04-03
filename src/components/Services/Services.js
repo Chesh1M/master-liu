@@ -48,11 +48,7 @@ const Services = () => {
                         </BtnWrap>                        
                     </div>
                     <div className='col-lg-4' id='services-img-wrapper'>
-                        <SRLWrapper options={lightboxOptions}>
-                            <a href={baby}>
-                                <img src={baby} alt="Fetus" className='img-fluid'/>
-                            </a>
-                        </SRLWrapper> 
+                        <img src={baby} alt="Fetus" className='img-fluid'/>
                     </div>
                 </div>                
             </div>
