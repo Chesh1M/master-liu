@@ -60,7 +60,7 @@ const Header = () => {
                             </LinkS>
                         </li>
                         <li className="nav-item text-center">
-                            <LinkR className="nav-link" to="/FAQs">
+                            <LinkR className="nav-link" to="/FAQs" onClick={toggleHome}>
                                 {t('faq')}
                             </LinkR>
                         </li>
