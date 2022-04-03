@@ -15,7 +15,7 @@ import article8 from '../../images/article-8.jpg'
 import { SRLWrapper } from "simple-react-lightbox";
 
 // For translation
-import { useTranslation } from 'react-i18next';
+//import { useTranslation } from 'react-i18next';
 
 const lightboxOptions = {
     settings: {
@@ -41,7 +41,7 @@ const lightboxOptions = {
 
 const Articles = () => {
     // For translation
-    const { t } = useTranslation();
+    //const { t } = useTranslation();
 
     return (
         <section id='articles'>
