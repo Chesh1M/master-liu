@@ -1,0 +1,24 @@
+#brand-logo {
+    height: 100px;
+}
+
+#navbar-wrapper {
+    padding-top: 30px;
+}
+
+.nav-link {
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 1) !important;
+    font-size: 18px !important;
+}
+.nav-link:hover {
+    /*border-bottom: 1px solid black;*/
+    text-decoration: underline;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.nav-item {
+    padding: 0 20px;
+}
+

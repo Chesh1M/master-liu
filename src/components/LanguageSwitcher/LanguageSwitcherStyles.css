@@ -1,0 +1,25 @@
+.country-flag {
+    width: 20px;
+}
+
+.languages-section {
+    padding: 15px 0;
+}
+
+.languages-container {
+    text-align: center;
+}
+
+.language-wrapper {
+    padding: 0 10px;
+    text-transform: uppercase;
+}
+
+.language-wrapper:hover {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.language {
+    padding-left: 4px;
+}

@@ -1,0 +1,25 @@
+.contact-container {
+    padding-top: 150px;
+}
+
+.contact-header {
+    text-transform: uppercase;
+    padding-bottom: 50px;
+}
+
+.contact-category-header {
+    text-transform: uppercase;
+}
+
+.google-maps {
+    padding-bottom: 100px;
+}
+
+@media (max-width: 991px) {
+    .contact-header {
+        padding-bottom: 25px;
+    }
+    .timings-section {
+        padding-top: 18px;
+    }
+}
