@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/master-liu/static/css/main.992517e1.css",
+    "main.js": "/master-liu/static/js/main.166f3202.js",
+    "static/media/master_liu.jpg": "/master-liu/static/media/master_liu.7eb6d5a3f04ae4cbb9e7.jpg",
+    "static/media/The_Traditional_Chinese_Medicine_Practitioners_Act.jpg": "/master-liu/static/media/The_Traditional_Chinese_Medicine_Practitioners_Act.e87a0a35a9515aeacb92.jpg",
+    "static/media/article-1.jpg": "/master-liu/static/media/article-1.8877fcbd718d2e5e8b03.jpg",
+    "static/media/article-8.jpg": "/master-liu/static/media/article-8.fe2389ebb0a3d873ea2d.jpg",
+    "static/media/article-7.jpg": "/master-liu/static/media/article-7.6a8c17414478fbd7d4d8.jpg",
+    "static/media/article-6.jpg": "/master-liu/static/media/article-6.e32bafb4e8aa8689e48b.jpg",
+    "static/media/article-5.jpg": "/master-liu/static/media/article-5.e6486389bd8fc5831336.jpg",
+    "static/media/article-4.jpg": "/master-liu/static/media/article-4.4a1d26879fa1a19305eb.jpg",
+    "static/media/article-3.jpg": "/master-liu/static/media/article-3.9c7f7b62996a89752871.jpg",
+    "static/media/article-2.jpg": "/master-liu/static/media/article-2.071c0e29840e7d49cf4a.jpg",
+    "static/media/certificate-Acupuncturist_Registration_Certificate.jpg": "/master-liu/static/media/certificate-Acupuncturist_Registration_Certificate.7c2e7518eb8d0825265b.jpg",
+    "static/media/certificate-Academy_of_Traditional_Chinese_Medicine.jpg": "/master-liu/static/media/certificate-Academy_of_Traditional_Chinese_Medicine.6559d0a83bf397e5d8bb.jpg",
+    "static/media/baby.jpg": "/master-liu/static/media/baby.915150b1994417c3ea3b.jpg",
+    "static/media/brand_logo.jpg": "/master-liu/static/media/brand_logo.b3d6106cd10c44eff52b.jpg",
+    "index.html": "/master-liu/index.html",
+    "static/media/us.svg": "/master-liu/static/media/us.ae09682ab87f422ea92ef0df3c595ea9.svg",
+    "static/media/cn.svg": "/master-liu/static/media/cn.c9e964366d7ccb5ad0150eced2b5aa71.svg",
+    "static/media/getFetch.cjs": "/master-liu/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.992517e1.css.map": "/master-liu/static/css/main.992517e1.css.map",
+    "main.166f3202.js.map": "/master-liu/static/js/main.166f3202.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.992517e1.css",
+    "static/js/main.166f3202.js"
+  ]
+}
